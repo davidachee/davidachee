@@ -4,5 +4,5 @@ interface Props {
 }
 
 export default function InlineLink(props: Props) {
-    return (<a className="hover:text-purple-500 transition-colors duration-300" href={props.href}>{props.text}</a>)
+    return (<a className="hover:text-yellow-300 dark:hover:text-red-400 transition-colors duration-300 underline" href={props.href}>{props.text}</a>)
 }
