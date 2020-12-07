@@ -18,15 +18,19 @@ export default function IndexPage() {
         </p>
         <p className="font-mono font-light pt-4 text-xl max-w-2xl text-white">👋 Hi there!</p>
         <p className="font-mono font-light pt-4 text-xl max-w-2xl text-white">
-          I'm a full stack engineer with experience building production ready Typescript
-          applications from the ground up. My most recent focus has been on designing and
+          I'm a full-stack engineer with over ten years experience building production ready
+          applications from the ground up. Most recently, my focus has been on designing and
           implementing multi-player collaborative experiences. I have particular expertise with{' '}
-          <strong className="font-bold">React, GraphQL, Express, nodejs and Postgres</strong>.
+          <strong className="font-bold">
+            Typescript, React, GraphQL, Jest, Express, nodejs and Postgres
+          </strong>
+          .
         </p>
         <p className="font-mono font-light pt-4 text-xl max-w-2xl text-white">
           My strong design background allows me to identify problems before the development process
           begins. I pride myself on my ability to work with product and design to find the best
-          possible version of what we're building.
+          possible version of what we're building. I'm happiest collaborating with team members to
+          create something amazing together.
         </p>
         <p className="font-mono font-light pt-4 text-xl max-w-2xl text-white">
           I'm currently a lead engineer at{' '}
