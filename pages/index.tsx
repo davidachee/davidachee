@@ -19,7 +19,8 @@ export default function IndexPage() {
         <p className="font-mono font-light pt-4 text-xl max-w-2xl text-white">👋 Hi there!</p>
         <p className="font-mono font-light pt-4 text-xl max-w-2xl text-white">
           I'm a full stack engineer with experience building production ready Typescript
-          applications from the ground up. I have extensive experience with{' '}
+          applications from the ground up. My most recent focus has been on designing and
+          implementing multi-player collaborative experiences. I have particular expertise with{' '}
           <strong className="font-bold">React, GraphQL, Express, nodejs and Postgres</strong>.
         </p>
         <p className="font-mono font-light pt-4 text-xl max-w-2xl text-white">
