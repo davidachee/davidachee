@@ -33,7 +33,7 @@ export default function IndexPage() {
           create something amazing together.
         </p>
         <p className="font-mono font-light pt-4 text-xl max-w-2xl text-white">
-          I'm currently a staff engineer at{' '}
+          I'm currently a software engineer at{' '}
           <InlineLink href="https://www.lattice.com/" text="Lattice" />.
         </p>
       </div>
