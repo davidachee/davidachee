@@ -1,9 +1,8 @@
-import { Fragment } from 'react'
 import InlineLink from '../components/inline-link'
 
 export default function IndexPage() {
   return (
-    <Fragment>
+    <>
       <div className="p-10">
         <h1 className="font-mono font-bold text-5xl pb-2 text-white">David Achee</h1>
         <p className="font-mono font-light pt-4 text-xl max-w-2xl text-white">
@@ -37,6 +36,6 @@ export default function IndexPage() {
           <InlineLink href="https://www.lattice.com/" text="Lattice" />.
         </p>
       </div>
-    </Fragment>
+    </>
   )
 }
